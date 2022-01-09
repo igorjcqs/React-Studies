@@ -1,1 +1,1 @@
-## React-Studies
+## React -Studies
